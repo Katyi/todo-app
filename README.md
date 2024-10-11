@@ -1,4 +1,24 @@
-# React + TypeScript + Vite
+## Тестовое задание Frontend junior в Mindbox
 
-Тестовое задание Frontend junior в Mindbox
-Проект запускается командой npm i && npm run start
+**Стек**
+React TypeScript Vitest testing-library/react
+
+**Запуск проекта в 🖐 3 шага**
+
+1. Клонируйте проект
+
+```
+git clone https://github.com/Katyi/todo-app
+```
+
+2. Установите модули
+
+```
+npm install
+```
+
+3. Запустите проект
+
+```
+npm run start
+```
